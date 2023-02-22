@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Thibault2001
-- 👀 I’m interested in JAVA project
-- 🌱 I’m currently learning JAVA and SQL
-- 💞️ I’m looking to collaborate on Armada 2023 project
+- 👋 Hi, I’m @Thibault
+- 👀 I’m interested in JAVA project, cybersecurity
+- 🌱 I’m currently learning C, JAVA, SQL, HTML, CSS, PYTHON...
+- 💞️ I’m looking to collaborate on cybersecurity project
 - 📫 How to reach me thibault.serafini@groupe-esigelec.org
 
 <!---
